@@ -9,14 +9,8 @@
 ## What I've learned :
 + Interfaces and Listeners.
 + Using material colors.
-+ Localization (Arabic & English).
 
-## TODO :
-- [ ] Night Mode .
-- [ ] Preffernce activity to choose the language and the theme .
 
 ## Screenshots 
-<img src="https://github.com/mohammed2571994/court-counter/blob/master/screenshots/arabic.png" width="480" hieght="854">
 
-<img src="https://github.com/mohammed2571994/court-counter/blob/master/screenshots/english.png" width="480" hieght="854">
-
+![english](https://user-images.githubusercontent.com/75523002/183238231-3fef4cf0-2a2f-4ac7-92e0-c1b10640431c.png)
